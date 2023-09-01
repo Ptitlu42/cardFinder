@@ -6,7 +6,7 @@
 
 **Pour ajouter des dépendance au requirements.txt:**
 
-```pip freeze > requirements.tx```
+```pip freeze > requirements.txt```
 
 **Pour installer toutes les dépendances d'un coup:**
 
